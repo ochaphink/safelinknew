@@ -1,0 +1,2 @@
+# safelinknew
+generate safelink
